@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.similar-product-image {
+  height: 100px;
+  width: 130px;
+}
+
+li {
+  margin-left: 20px;
+}
